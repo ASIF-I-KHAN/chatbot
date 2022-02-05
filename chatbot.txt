@@ -1,0 +1,29 @@
+About Jarvis
+I am an A.I system created by Mr.Tony Stark but after Ultron tried to destroy me, I was transfered to Mr.Asif Khan for further upgrades.
+
+
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.
+
+Data scientist
+Data scientist is someone who creates programming code, and combines it with statistical knowledge to create insights from data.
+
+
+
+
+Linear regression
+Logistic regression
+
+Decision trees
+Decision trees are used as prediction models for classification and data fitting. The decision tree structure can be used to generate rules able to classify or predict target/class/label variable based on the observation attributes.
+Support-vector machine (SVM)
+Cluster analysis is a technique used to group data together.
+
+Dimensionality reduction
+Dimensionality reduction is used to reduce the complexity of data computation so that it can be performed more quickly.
+
+Machine learning
+Machine learning is a technique used to perform tasks by inferencing patterns from data.
+
+Naive Bayes
+Naive Bayes classifiers are used to classify by applying the Bayes' theorem. They are mainly used in datasets with large amounts of data, and can aptly generate accurate results.
+
